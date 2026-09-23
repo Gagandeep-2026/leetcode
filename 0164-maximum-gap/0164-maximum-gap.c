@@ -1,77 +1,83 @@
 #include <stdlib.h>
-#include <limits.h>
-
-typedef struct
-{
-    int used;
-    int min;
-    int max;
-} Bucket;
 
 int maximumGap(int* nums, int numsSize)
 {
     if (numsSize < 2)
         return 0;
 
-    int minVal = INT_MAX;
-    int maxVal = INT_MIN;
+    // Find minimum and maximum
+    int min = nums[0];
+    int max = nums[0];
 
-    for (int i = 0; i < numsSize; i++)
+    for (int i = 1; i < numsSize; i++)
     {
-        if (nums[i] < minVal)
-            minVal = nums[i];
+        if (nums[i] < min)
+            min = nums[i];
 
-        if (nums[i] > maxVal)
-            maxVal = nums[i];
+        if (nums[i] > max)
+            max = nums[i];
     }
 
-    if (minVal == maxVal)
+    if (min == max)
         return 0;
 
-    int bucketSize = (maxVal - minVal) / (numsSize - 1);
-    if (bucketSize == 0)
-        bucketSize = 1;
+    // Bucket size
+    int gap = (max - min + numsSize - 2) / (numsSize - 1);
 
-    int bucketCount = (maxVal - minVal) / bucketSize + 1;
+    int bucketCount = (max - min) / gap + 1;
 
-    Bucket *bucket = (Bucket *)malloc(bucketCount * sizeof(Bucket));
+    int *bucketMin = (int *)malloc(bucketCount * sizeof(int));
+    int *bucketMax = (int *)malloc(bucketCount * sizeof(int));
+    int *used = (int *)calloc(bucketCount, sizeof(int));
 
+    // Initialize buckets
     for (int i = 0; i < bucketCount; i++)
     {
-        bucket[i].used = 0;
-        bucket[i].min = INT_MAX;
-        bucket[i].max = INT_MIN;
+        bucketMin[i] = 0;
+        bucketMax[i] = 0;
     }
 
+    // Put values into buckets
     for (int i = 0; i < numsSize; i++)
     {
-        int index = (nums[i] - minVal) / bucketSize;
+        int index = (nums[i] - min) / gap;
 
-        if (!bucket[index].used)
-            bucket[index].used = 1;
+        if (!used[index])
+        {
+            bucketMin[index] = nums[i];
+            bucketMax[index] = nums[i];
+            used[index] = 1;
+        }
+        else
+        {
+            if (nums[i] < bucketMin[index])
+                bucketMin[index] = nums[i];
 
-        if (nums[i] < bucket[index].min)
-            bucket[index].min = nums[i];
-
-        if (nums[i] > bucket[index].max)
-            bucket[index].max = nums[i];
+            if (nums[i] > bucketMax[index])
+                bucketMax[index] = nums[i];
+        }
     }
 
-    int ans = 0;
-    int prev = minVal;
+    // Find maximum gap between buckets
+    int maxGap = 0;
+    int previous = min;
 
     for (int i = 0; i < bucketCount; i++)
     {
-        if (!bucket[i].used)
+        if (!used[i])
             continue;
 
-        if (bucket[i].min - prev > ans)
-            ans = bucket[i].min - prev;
+        int currentGap = bucketMin[i] - previous;
 
-        prev = bucket[i].max;
+        if (currentGap > maxGap)
+            maxGap = currentGap;
+
+        previous = bucketMax[i];
     }
 
-    free(bucket);
+    free(bucketMin);
+    free(bucketMax);
+    free(used);
 
-    return ans;
+    return maxGap;
 }
