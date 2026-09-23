@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gagandeep-2026/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Gagandeep-2026/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Gagandeep-2026/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gagandeep-2026/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/Gagandeep-2026/leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0402-remove-k-digits) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Gagandeep-2026/leetcode/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gagandeep-2026/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
