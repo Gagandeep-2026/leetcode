@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Gagandeep-2026/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gagandeep-2026/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Gagandeep-2026/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Gagandeep-2026/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Gagandeep-2026/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Gagandeep-2026/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gagandeep-2026/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gagandeep-2026/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
+| [0204-count-primes](https://github.com/Gagandeep-2026/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gagandeep-2026/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gagandeep-2026/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0258-add-digits) |
 ## Bucket Sort
 |  |
@@ -188,4 +191,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Gagandeep-2026/leetcode/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gagandeep-2026/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gagandeep-2026/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gagandeep-2026/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gagandeep-2026/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
