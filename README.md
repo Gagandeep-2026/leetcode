@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gagandeep-2026/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gagandeep-2026/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Gagandeep-2026/leetcode/tree/master/0344-reverse-string) |
+| [0481-magical-string](https://github.com/Gagandeep-2026/leetcode/tree/master/0481-magical-string) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gagandeep-2026/leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
+| [0481-magical-string](https://github.com/Gagandeep-2026/leetcode/tree/master/0481-magical-string) |
 ## Simulation
 |  |
 | ------- |
