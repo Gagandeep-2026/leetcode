@@ -76,10 +76,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
+| [0402-remove-k-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
