@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagandeep-2026/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Gagandeep-2026/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Gagandeep-2026/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Gagandeep-2026/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gagandeep-2026/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Gagandeep-2026/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Gagandeep-2026/leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gagandeep-2026/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Gagandeep-2026/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagandeep-2026/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Gagandeep-2026/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
+| [0242-valid-anagram](https://github.com/Gagandeep-2026/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Gagandeep-2026/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Gagandeep-2026/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Gagandeep-2026/leetcode/tree/master/0389-find-the-difference) |
