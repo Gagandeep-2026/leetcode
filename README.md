@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gagandeep-2026/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gagandeep-2026/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
 ## Recursion
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
 ## Stack
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Gagandeep-2026/leetcode/tree/master/0410-split-array-largest-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
