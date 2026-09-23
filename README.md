@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gagandeep-2026/leetcode/tree/master/0002-add-two-numbers) |
+| [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gagandeep-2026/leetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
