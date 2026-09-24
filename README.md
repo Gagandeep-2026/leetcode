@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagandeep-2026/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Gagandeep-2026/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/Gagandeep-2026/leetcode/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/Gagandeep-2026/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Gagandeep-2026/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Gagandeep-2026/leetcode/tree/master/0344-reverse-string) |
