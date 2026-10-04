@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagandeep-2026/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Gagandeep-2026/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Gagandeep-2026/leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Gagandeep-2026/leetcode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Gagandeep-2026/leetcode/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Gagandeep-2026/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gagandeep-2026/leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Gagandeep-2026/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Gagandeep-2026/leetcode/tree/master/0402-remove-k-digits) |
 ## Greedy
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gagandeep-2026/leetcode/tree/master/0204-count-primes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gagandeep-2026/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
